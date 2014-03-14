@@ -1,0 +1,39 @@
+{
+  "name": "grunt-test",
+  "version": "0.0.1",
+  "description": "Using Grunt with Laravel and Bootstrap",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SoarLin/grunt-bower-laravel-boostrap.git"
+  },
+  "keywords": [
+    "Laravel",
+    "Grunt",
+    "Bootstrap"
+  ],
+  "author": "Soar Lin",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.0",
+    "grunt-phpunit": "~0.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/SoarLin/grunt-bower-laravel-boostrap/issues"
+  },
+  "homepage": "https://github.com/SoarLin/grunt-bower-laravel-boostrap",
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-less": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
